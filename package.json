@@ -1,0 +1,15 @@
+{
+    "name": "nft-preview-card-component-main",
+    "version": "1.0.0",
+    "description": "![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)",
+    "main": "index.html",
+
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Pavel Melnik",
+    "license": "ISC",
+    "dependencies": {
+        "anme": "^0.0.14"
+    }
+}

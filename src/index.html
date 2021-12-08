@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- displays site properly based on user's device -->
+
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="./styles/style.css">
+
+    <title>Frontend Mentor | NFT preview card component</title>
+
+    <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+    <style>
+        .attribution {
+            font-size: 11px;
+            text-align: center;
+        }
+        
+        .attribution a {
+            color: hsl(228, 45%, 44%);
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="card">
+
+        <div class="card__image">
+            <div class="card__image-hover">
+                <img src="./images/icon-view.svg" alt="view">
+            </div>
+            <img src="./images/image-equilibrium.jpg" alt="preview">
+        </div>
+
+        <div class="card__body">
+
+            <div class="card__body-header">
+                <a href="/">Equilibrium #3429</a>
+            </div>
+
+            <div class="card__body-content">
+
+
+                Our Equilibrium collection promotes balance and calm.
+
+
+            </div>
+
+            <div class="card__body-details">
+                <div class="card__body-details--price">
+                    <img src="./images/icon-ethereum.svg" alt="ethereum"> <span>0.041ETH</span></div>
+
+                <div class="card__body-details--date">
+                    <img src="./images/icon-clock.svg" alt="clock">
+                    <span>3 days left</span>
+                </div>
+            </div>
+
+        </div>
+
+        <span class="card__divider"></span>
+
+        <div class="card__footer">
+            <div class="card__footer-avatar"><img src="./images/image-avatar.png" alt="avatar"></div>
+            <div class="card__footer-author">
+                <span class="card__footer-author--descr">
+                Creation of
+              </span>
+                <a href="/">
+                    <span class="card__footer-author--link">
+                Jules Wyvern
+              </span>
+                </a>
+
+            </div>
+        </div>
+    </div>
+
+
+    <div class="attribution">
+        Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. Coded by <a href="https://portfolio.pavelmelnik.ru/">Pavel Melnik</a>.
+    </div>
+</body>
+
+</html>

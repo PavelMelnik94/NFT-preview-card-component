@@ -27,10 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![1](./src/desing/active-states.jpg)
-![2](./src/desing/desktop-design.jpg)
-![3](./src/desing/desktop-preview.jpg)
-![4](./src/desing/mobile-design.jpg)
+![1](https://github.com/PavelMelnik94/NFT-preview-card-component/blob/main/src/design/desktop-preview.jpg)
 
 ### Links
 

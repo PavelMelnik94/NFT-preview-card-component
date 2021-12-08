@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/PavelMelnik94/NFT-preview-card-component](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://github.com/PavelMelnik94/NFT-preview-card-component](https://github.com/PavelMelnik94/NFT-preview-card-component)
+- Live Site URL: [https://nft-preview-card-component-theta.vercel.app/](https://nft-preview-card-component-theta.vercel.app/)
 
 ## My process
 
